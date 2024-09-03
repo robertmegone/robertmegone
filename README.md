@@ -5,7 +5,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://x.com/robertmegone">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+      <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X/Twitter Badge"/>
     </a>
   </div>
   <h1>Robert Megone</h1>
@@ -51,7 +51,14 @@
   </p>
   <h3 align="center">Let's Connect</h3>
   <p align="center">
-    I'm always open to new opportunities or collaborations. Feel free to reach out via <a href="https://www.linkedin.com/in/robertmegone/">LinkedIn</a> or <a href="https://x.com/robertmegone">Twitter</a>.
+    I'm always open to new opportunities or collaborations. Feel free to reach out via   <div id="badges">
+    <a href="https://www.linkedin.com/in/robertmegone/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a> or
+    <a href="https://x.com/robertmegone">
+      <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X/Twitter Badge"/>
+    </a>
+  </div>.
   </p>
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=robertmegone&style=flat-square&color=blue" alt="Profile views"/>
