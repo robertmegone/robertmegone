@@ -58,7 +58,7 @@
     <a href="https://x.com/robertmegone">
       <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X/Twitter Badge"/>
     </a>
-  </div>.
+  </div>
   </p>
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=robertmegone&style=flat-square&color=blue" alt="Profile views"/>
