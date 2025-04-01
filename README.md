@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="http://robertmegone.com/img/profile.png" width="100"/>
+  <img src="./profile.png" width="100"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/robertmegone/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -35,20 +35,20 @@
   </p>
   <h3 align="center">Clients</h3>
   <p align="center">
-    <img src="http://www.robertmegone.com/img/portfolio/mot_logo.png" alt="Motiviti" width="100" style="margin: 10px;">
-    <img src="http://www.robertmegone.com/img/portfolio/ter_logo.png" alt="Terrible Toybox" width="100" style="margin: 10px;">
-    <img src="http://www.robertmegone.com/img/portfolio/spo_logo.png" alt="Spooky Doorway" width="100" style="margin: 10px;">
-    <img src="http://www.robertmegone.com/img/portfolio/rev_logo.png" alt="Revolution Software" width="100" style="margin: 10px;">
-    <img src="http://www.robertmegone.com/img/portfolio/df_logo.png" alt="Double Fine" width="100" style="margin: 10px;">
-    <img src="http://www.robertmegone.com/img/portfolio/bab_logo.png" alt="Brain&amp;Brain" width="100" style="margin: 10px;">
-    <img src="http://www.robertmegone.com/img/portfolio/bly_logo.png" alt="Blyts" width="100" style="margin: 10px;">
-    <img src="http://www.robertmegone.com/img/portfolio/sky_logo.png" alt="SkyGoblin" width="100" style="margin: 10px;">
-    <img src="http://www.robertmegone.com/img/portfolio/vent_logo.png" alt="Venture Moon" width="100" style="margin: 10px;">
-    <img src="http://www.robertmegone.com/img/portfolio/prior_logo.png" alt="Prior Art" width="100" style="margin: 10px;">
-    <img src="http://www.robertmegone.com/img/portfolio/beep_logo.png" alt="Beep Games" width="100" style="margin: 10px;">
-    <img src="http://www.robertmegone.com/img/portfolio/inq_logo.png" alt="Inquisiment" width="100" style="margin: 10px;">
-    <img src="http://www.robertmegone.com/img/portfolio/ee_logo.png" alt="Electric Eggplant" width="100" style="margin: 10px;">
-    <img src="http://www.robertmegone.com/img/portfolio/play_logo.png" alt="Playchilla" width="100" style="margin: 10px;">
+    <img src="./mot_logo.png" alt="Motiviti" width="100" style="margin: 10px;">
+    <img src="./ter_logo.png" alt="Terrible Toybox" width="100" style="margin: 10px;">
+    <img src="./spo_logo.png" alt="Spooky Doorway" width="100" style="margin: 10px;">
+    <img src="./rev_logo.png" alt="Revolution Software" width="100" style="margin: 10px;">
+    <img src="./df_logo.png" alt="Double Fine" width="100" style="margin: 10px;">
+    <img src="./bab_logo.png" alt="Brain&amp;Brain" width="100" style="margin: 10px;">
+    <img src="./bly_logo.png" alt="Blyts" width="100" style="margin: 10px;">
+    <img src="./sky_logo.png" alt="SkyGoblin" width="100" style="margin: 10px;">
+    <img src="./vent_logo.png" alt="Venture Moon" width="100" style="margin: 10px;">
+    <img src="./prior_logo.png" alt="Prior Art" width="100" style="margin: 10px;">
+    <img src="./beep_logo.png" alt="Beep Games" width="100" style="margin: 10px;">
+    <img src="./inq_logo.png" alt="Inquisiment" width="100" style="margin: 10px;">
+    <img src="./ee_logo.png" alt="Electric Eggplant" width="100" style="margin: 10px;">
+    <img src="./play_logo.png" alt="Playchilla" width="100" style="margin: 10px;">
   </p>
   <h3 align="center">Let's Connect</h3>
   <p align="center">
