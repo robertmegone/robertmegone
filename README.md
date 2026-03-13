@@ -62,7 +62,8 @@
   </div>
   </p>
   <h3 align="center">Open Source Contributions</h3>
-    <strong>ScummVM:</strong>
+  <ul align="left" style="display: inline-block; text-align: left;">  
+  <strong>ScummVM:</strong>
     <li>- Early reverse engineering and reimplementation of callbacks for Teenagent engine.</li>
     <li>- Reimplementation of title screens for Maniac Mansion (NES)</li>
     <li>- Reimplementation of SCUMM engine Playback feature(used in the DOS Monkey Island 2 Demo)</li>
@@ -73,6 +74,7 @@
     <strong>WIP:</strong>
     <li>- Reverse engineering and reimplementation of a ScummVM engine for Scooby Doo Mystery (Sega Genesis)</li>
     <li>- Implementing EGA support for Elvira 1 and 2(DOS)</li>
+  </ul>
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=robertmegone&style=flat-square&color=blue" alt="Profile views"/>
   </p>
