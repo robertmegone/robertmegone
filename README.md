@@ -62,7 +62,6 @@
   </div>
   </p>
   <h3 align="center">Open Source Contributions</h3>
-  <p align="center">
     <strong>ScummVM:</strong>
     <li>- Early reverse engineering and reimplementation of callbacks for Teenagent engine.</li>
     <li>- Reimplementation of title screens for Maniac Mansion (NES)</li>
@@ -74,7 +73,6 @@
     <strong>WIP:</strong>
     <li>- Reverse engineering and reimplementation of a ScummVM engine for Scooby Doo Mystery (Sega Genesis)</li>
     <li>- Implementing EGA support for Elvira 1 and 2(DOS)</li>
-  </p>
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=robertmegone&style=flat-square&color=blue" alt="Profile views"/>
   </p>
