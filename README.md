@@ -66,7 +66,7 @@
   <strong>ScummVM:</strong>
     <li>Early reverse engineering and reimplementation of callbacks for Teenagent engine.</li>
     <li>Reimplementation of title screens for Maniac Mansion (NES)</li>
-    <li>Reimplementation of SCUMM engine Playback feature(used in the DOS Monkey Island 2 Demo)</li>
+    <li>Reimplementation of SCUMM engine Playback feature(used in the DOS Monkey Island 2 Demo, but the functionality was exposed in MI1, MI2 and FoA)</li>
     <li>Implemented SQUASH decompression algorithm and MOD playback support for Simon the Sorcerer (Acorn)</li>
     <li>Implemented music driver and playback for music in Elvira 1 and 2 (Atari ST)</li>
     <li>Implemented a standalone tool to extract ScummVM compatible datafiles from Simon the Sorcerer disk images (Acorn)</li>
