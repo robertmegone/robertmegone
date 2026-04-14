@@ -71,11 +71,14 @@
     <li>Implemented music driver and playback for music in Elvira 1 and 2 (Atari ST)</li>
     <li>Implemented a standalone tool to extract ScummVM compatible datafiles from Simon the Sorcerer disk images (Acorn)</li>
     <li>Implemented original language overlay support for Simon the Sorcerer II (Amiga/Mac)</li>
+    <li>Fixed palette colours for Elvira II Atari (ST)</li>
+    <li>Implemented more accurate rendering for Personal Nightmare(Amiga)</li>
     <br>
     <strong>WIP:</strong>
     <li>Reverse engineering and reimplementation of a ScummVM engine for Scooby Doo Mystery (Sega Genesis)</li>
     <li>Implementing EGA support for Elvira 1 and 2(DOS)</li>
     <li>Implementing support for Teenagent (Amiga)</li>
+    <li>Implementing day/night palette stepping for Personal Nightmare(Amiga/Atari ST)</li>
   </ul>
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=robertmegone&style=flat-square&color=blue" alt="Profile views"/>
